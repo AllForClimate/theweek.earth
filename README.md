@@ -1,3 +1,3 @@
-This is the code for the cryptoart.brussels website
+This is the code for the theweek.earth website
 
-It uses [shared google docs](https://drive.google.com/drive/u/0/folders/10N_TlgG7xonuvjVIK8e0rhal8kBWc_GJ) to make it easy for anyone to contribute.
+It uses [shared google docs](https://drive.google.com/drive/u/1/folders/1gifrdMOJ95NMoGxQBAKVwzwKBKAQRtlH) to make it easy for anyone to contribute.
